@@ -1,15 +1,15 @@
-# 📝 React To-Do List
+#  React To-Do List
 
 A clean, responsive, and functional To-Do List application built as my first deep-dive into React state management and CRUD operations.
 
-## 🚀 Features
+## Features
 
 - **Add Tasks**: Quickly add new items to your list.
 - **Validation**: Prevents empty tasks or whitespace-only entries.
 - **Delete Tasks**: Remove tasks using a filtered state update.
 - **Responsive Design**: Styled with modern CSS (Flexbox) for mobile and desktop.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React**: Functional components and Hooks (`useState`).
 - **CSS3**: Custom styling with Flexbox and hover transitions.
@@ -17,7 +17,7 @@ A clean, responsive, and functional To-Do List application built as my first dee
 
 ---
 
-## 📸 Component Logic Breakdown
+## Component Logic Breakdown
 
 ### State Management
 
